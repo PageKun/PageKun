@@ -1,4 +1,5 @@
-##  I’m currently learning Golang.
+##  I’m currently learning Golang and AI
+I love Anime and Terminal Applications.
 <!--
 **PageKun/PageKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
